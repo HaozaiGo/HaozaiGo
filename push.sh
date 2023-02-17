@@ -21,7 +21,7 @@ sleep 1s
 
 echo "####### 添加文件 #######"
 
-git commit -m "xiaohao自动上传到git"
+git commit -m "xiaohao自动上传到git1"
 
 echo "####### commit #######"
 
