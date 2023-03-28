@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HaozaiGo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Haozai
+- 👀 I’m interested in Front End, JavaScript and TypeScript 
+- 🌱 I’m currently learning GoLang
+- 💞️ I’m looking to collaborate on Front End
+- 📫 my Email 1029172530@qq.com
 
 <!---
 HaozaiGo/HaozaiGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
