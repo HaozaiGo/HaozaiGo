@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haozai
 - 👀 I’m interested in Front End, JavaScript and TypeScript 
 - 🌱 I’m currently learning GoLang
-- 💞️ I’m looking to collaborate on Front End
+- 💞️ I’m looking to collaborate on AI development
 - 📫 my Email 1029172530@qq.com
 
 <!---
